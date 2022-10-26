@@ -8,10 +8,13 @@
 
 <div 
  style="display: inline_block"><br/>
-  <img align="center" alt="Rstudio" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
- <img align="center" alt="Rstudio" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> 
- <img align="center" alt="Rstudio" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
- <img align="center" alt="Rstudio" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
+ <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+ <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+ <img align="center" alt="Rafa-Js" height="30" width="40" src= 
+ "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+ <img align="center" alt="Rafa-Js" height="30" width="40" src= 
+  "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+ 
 </div><br/>
 
   Onde me encontrar
@@ -22,6 +25,8 @@
   <a href="https://www.linkedin.com/in/hillnara-ferreira-28808ba6" 
   target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+ ! [Animação cobra] (https://github.com/Hillnara/Hillnara/blob/output/github-contribution-grid-snake.svg)
+ 
 </div><br/>
 
 Apaixonada por tecnologia, educação e por mudar a vida das pessoas através da programação e engenharia.
