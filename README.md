@@ -25,8 +25,7 @@
   <a href="https://www.linkedin.com/in/hillnara-ferreira-28808ba6" 
   target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- ! [Animação cobra] (https://github.com/Hillnara/Hillnara/blob/output/github-contribution-grid-snake.svg)
- 
+  
 </div><br/>
 
 Apaixonada por tecnologia, educação e por mudar a vida das pessoas através da programação e engenharia.
