@@ -14,7 +14,7 @@
  "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
  <img align="center" alt="Rafa-Js" height="30" width="40" src= 
   "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-  <img align="center" alt="Rafa-Js"  src="https://www.canva.com/design/DAFQXutDUL8/zu_dLNV_WhM_IGQoo3GUZg/watch?utm_content=DAFQXutDUL8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"/>
+  utm_content=DAFQXutDUL8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"/>
 </div><br/>
 
   Onde me encontrar
